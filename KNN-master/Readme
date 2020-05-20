@@ -1,0 +1,5 @@
+1. KNN.py KNN项目实战——改进约会网站的配对效果
+   数据集为：datingTestSet.txt,datingTestSet2.txt
+
+2. KNN_digits.py 使用sklearn库实现KNN算法手写数字识别
+   数据集为：训练集trainingDigits，测试集testDigits
